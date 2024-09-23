@@ -45,7 +45,7 @@ More languages may be added over time as I continue to explore different approac
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/DSA-Coding-Journey.git
+    git clone https://github.com/vaibhavpal7549/DSA.git
     ```
 2. Navigate to the respective category folder to view the problems and solutions.
 3. Open the `.cpp`, `.py`, or `.java` files in your favorite code editor to explore the solutions.
